@@ -1,0 +1,13 @@
+{
+  "name": "jqprint",
+  "version": "1.0.0",
+  "description": "jQuery selected print.",
+  "license": "Apache 2.0",
+  "author": {
+    "name": "Eros Fratini - eros@recoding.it"
+  },
+  "main": "./_jquery.jqprint-0.3.js",
+  "dependencies": {},
+  "scripts": {},
+  "devDependencies": {}
+}
